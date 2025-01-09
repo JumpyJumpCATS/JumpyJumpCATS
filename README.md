@@ -24,8 +24,9 @@ Feel free to follow my journey here and explore the world of coding and being a 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rstudio/rstudio-original.svg" />
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/illustrator/illustrator-plain.svg" />
+<br /> <br />
 
-<br />
+---
 
 ### 📊 Stats
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JumpyJumpCATS&layout=compact&theme=gruvbox&hide_border=true" /></a>
